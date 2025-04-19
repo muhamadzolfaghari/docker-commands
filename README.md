@@ -1,4 +1,4 @@
-docker-commands
+# Docker Commands
 
 A quick reference for building, running, and managing your project via Docker.
 
